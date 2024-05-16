@@ -36,3 +36,5 @@ foreach ($strings as $string) {
 
 
 }
+
+?>
